@@ -1,0 +1,89 @@
+{
+  "Housing": [
+    "Rent",
+    "Mortgage",
+    "Property Tax",
+    "Home Insurance",
+    "Maintenance & Repairs",
+    "Society/HOA Fees"
+  ],
+  "Utilities": [
+    "Electricity",
+    "Water",
+    "Gas",
+    "Internet",
+    "Mobile Phone",
+    "Waste Disposal"
+  ],
+  "Food & Dining": [
+    "Groceries",
+    "Restaurants",
+    "Coffee & Snacks",
+    "Food Delivery",
+    "Alcohol"
+  ],
+  "Transportation": [
+    "Fuel",
+    "Public Transit",
+    "Ride Sharing & Taxi",
+    "Vehicle Maintenance",
+    "Vehicle Insurance",
+    "Parking & Tolls"
+  ],
+  "Health & Wellness": [
+    "Doctor Visits",
+    "Medicines",
+    "Health Insurance",
+    "Dental & Vision",
+    "Gym & Fitness",
+    "Therapy & Counseling"
+  ],
+  "Education": [
+    "Tuition & Fees",
+    "Books & Supplies",
+    "Online Courses",
+    "Exam Fees"
+  ],
+  "Entertainment": [
+    "Movies & Events",
+    "Streaming Subscriptions",
+    "Games",
+    "Hobbies",
+    "Music"
+  ],
+  "Shopping": [
+    "Clothing",
+    "Electronics",
+    "Home Goods",
+    "Personal Care",
+    "Gifts"
+  ],
+  "Travel": [
+    "Flights",
+    "Hotels & Stays",
+    "Local Transport",
+    "Sightseeing & Activities",
+    "Travel Insurance"
+  ],
+  "Family & Kids": [
+    "Childcare",
+    "School Fees",
+    "Toys & Games",
+    "Pet Care",
+    "Elder Care"
+  ],
+  "Financial": [
+    "Loan EMI",
+    "Credit Card Payment",
+    "Bank Fees",
+    "Investments",
+    "Insurance Premiums",
+    "Taxes"
+  ],
+  "Personal & Misc": [
+    "Donations & Charity",
+    "Subscriptions & Memberships",
+    "Professional Services",
+    "Miscellaneous"
+  ]
+}
