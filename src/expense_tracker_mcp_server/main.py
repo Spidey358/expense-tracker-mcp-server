@@ -55,7 +55,7 @@ def get_server_info():
 
 def main() -> None:
     try:
-        expenses.create_users_table()
+        expenses.create_expenses_table()
         mcp.run(transport="http", host="0.0.0.0", port=8000)
     finally:
         db.close()
